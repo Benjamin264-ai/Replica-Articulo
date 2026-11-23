@@ -1,0 +1,6 @@
+,LIME,SHAP
+KMeans_Silhouette,0.241,0.125
+Spectral_Silhouette,0.413,0.331
+KMeans_DBI,2.277,2.976
+Spectral_DBI,1.462,1.552
+K_optimo,2.0,2.0
